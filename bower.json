@@ -1,0 +1,27 @@
+{
+  "name": "front-end-test",
+  "description": "testing front end library component",
+  "main": "test",
+  "keywords": [
+    "frontend",
+    "component",
+    "library"
+  ],
+  "authors": [
+    "Derek Lo"
+  ],
+  "license": "MIT",
+  "homepage": "n/a",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0",
+    "bootstrap": "^3.3.7",
+    "select2": "^4.0.3"
+  }
+}
